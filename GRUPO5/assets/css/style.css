@@ -4,6 +4,7 @@ nav {
 	height: 690px;
 	width: 150px;
 	padding: 20px;
+	margin: 10px;
 }
 
 .content {
@@ -23,12 +24,14 @@ nav {
 	position: relative;
 	top:-280px;
 	left: 150px;
+	width: 1000px;
 	
 }
 
 .categorias {
 	position: relative;
-	top:-200px;
+	top:-250px;
 	left: 150px;
 	display: inline;
+	margin: 22px;
 }
