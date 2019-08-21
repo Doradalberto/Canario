@@ -58,8 +58,22 @@ nav {
 }
 
 .legenda_foto {
-	width: 250px;
-	text-align: center;
+	position: relative;
+	top: -730px;
+	left: 600px;
+
+}
+
+.legenda_foto1 {
+	position: relative;
+	top: -680px;
+	left: 600px;
+}
+
+.legenda_foto2 {
+	position: relative;
+	top: -630px;
+	left: 600px;
 }
 
 .projetoss {
@@ -68,7 +82,7 @@ nav {
 
 .pro {
 	display: block;
-	top: -300px;
+	top: -900px;
 	left: 150px;
 }
 
@@ -135,3 +149,23 @@ nav {
 	position: relative;
 	top: -533px;
 	left: 950px;
+
+}
+
+.img11 {
+	position: relative;
+	top: -650px;
+	left: 300px;
+}
+
+.img22 {
+	position: relative;
+	top: -600px;
+	left: 300px;
+}
+
+.img33 {
+	position: relative;
+	top: -550px;
+	left: 300px;
+}
