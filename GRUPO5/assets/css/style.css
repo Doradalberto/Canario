@@ -25,3 +25,10 @@ nav {
 	left: 150px;
 	
 }
+
+.categorias {
+	position: relative;
+	top:-200px;
+	left: 150px;
+	display: inline;
+}
