@@ -1,0 +1,90 @@
+{
+  "portfolio" : {
+    "auxilio" : {
+      "categoria" : "trabalhos com o intuito de serem prestativos",
+      "projetos" : {
+        "aplicativo" : {
+          "descricao" : "suporte para determinado grupo de usuarios",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "linguagem em html",
+          "titulo" : "Aplicativo suporte"
+        },
+        "portfolio" : {
+          "descricao" : "suporte para determinado grupo de usuarios",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "linguagem em html",
+          "titulo" : "Portfolio pessoal"
+        }
+      }
+    },
+    "fablab" : {
+      "categoria" : "projetos que utilizaram do fablab",
+      "projetos" : {
+        "estacaome" : {
+          "descricao" : "estacao meteorologica com diversos sensores",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "Sensor de luminosidade, Sensor de pressão, Sensor de temperatura, MDF, Arduino, Bateria",
+          "titulo" : "estacao meteorologica"
+        },
+        "girafa" : {
+          "descricao" : "luminaria em formato de girafa",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "mdf, cortadora a laser, impressora 3d",
+          "titulo" : "girafa iluminadora"
+        },
+        "motor" : {
+          "descricao" : "utilizacao de PMW para controlar um motor",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "PMW, motor",
+          "titulo" : "motor PMW"
+        },
+        "social" : {
+          "descricao" : "prototipo voltado ao auxilio de vendedores ambulantes",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "mdf, cortadora a laser",
+          "titulo" : "projeto social"
+        }
+      }
+    },
+    "matfis" : {
+      "categoria" : "projetos finais de diversas materias",
+      "projetos" : {
+        "mat" : {
+          "descricao" : "poster com explicacao de topico matematico",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "papel, lapis",
+          "titulo" : "explicacao matematica"
+        },
+        "modelagem" : {
+          "descricao" : "modelagem de um sistema fisico",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "upyter notebook, dados",
+          "titulo" : "sistema fisico"
+        }
+      }
+    },
+    "program" : {
+      "categoria" : "projetos que necessitaram de programacao",
+      "projetos" : {
+        "dados" : {
+          "descricao" : "projeto de analise de dados determinado pelo grupo",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "database e software auxiliar",
+          "titulo" : "analise de dados"
+        },
+        "estacaome" : {
+          "descricao" : "estacao meteorologica com diversos sensores",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "Sensor de luminosidade, Sensor de pressão, Sensor de temperatura, MDF, Arduino, Bateria",
+          "titulo" : "estacao meteorologica"
+        },
+        "jogo" : {
+          "descricao" : "jogo interativo",
+          "equipe" : "Gabriela Giosa, Isadora Dalberto, João Gilberto, João Pedro, João Roxo",
+          "recursos" : "software Spyder e linguagem Python",
+          "titulo" : "Dots Ots"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "portfolio" : {
+    "auxilio" : {
+      "aplicativo" : {
+        "descricao" : "suporte para determinado grupo de usuarios",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "linguagem em html"
+      },
+      "portfolio" : {
+        "descricao" : "portfolio que reune projetos",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "linguagem em html"
+      }
+    },
+    "final" : {
+      "dados" : {
+        "descricao" : "projeto de analise de dados determinado pelo grupo",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "database e software auxiliar"
+      },
+      "mat" : {
+        "descricao" : "poster com explicacao de topico matematico",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "papel, lapis"
+      },
+      "modelagem" : {
+        "descricao" : "modelagem de um sistema fisico",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "Jupyter notebook, dados"
+      }
+    },
+    "lab" : {
+      "estacaome" : {
+        "descricao" : "estacao meteorologica com diversos sensores",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "arduino, circuito eletrico, sensores"
+      },
+      "luminaria" : {
+        "descricao" : "luminaria em formato de girafa",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "mdf, cortadora a laser, impressora 3d"
+      },
+      "motor" : {
+        "descricao" : "utilizacao de PMW para controlar um motor",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "PMW, motor"
+      },
+      "social" : {
+        "descricao" : "prototipo voltado ao auxilio de vendedores ambulantes",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "mdf, cortadora a laser"
+      }
+    },
+    "program" : {
+      "estacaome" : {
+        "descricao" : "estacao meteorologica com diversos sensores",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro\"",
+        "materiais" : "arduino, circuito eletrico, sensores"
+      },
+      "jogo" : {
+        "descricao" : "jogo interativo",
+        "equipe" : "Gabriela, Isadora, Joao, Joao Pedro",
+        "materiais" : "software Spyder e linguagem Python"
+      }
+    }
+  }
+}
