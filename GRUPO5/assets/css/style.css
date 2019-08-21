@@ -50,6 +50,7 @@ nav {
 	top: -300px;
 }
 
+
 .categorias2 {
 	display: inline-block;
 	width: 200px;
@@ -75,4 +76,61 @@ nav {
 	display: block;
 	top: -300px;
 	left: 150px;
+
+.descricao {
+	position: relative;
+	top: -280px;
+	left: 150px;
+	width: 500px;
+
 }
+
+.equipe {
+	position: relative;
+	top: -325px;
+	left: 75px;
+	
+
+}
+
+.time {
+	position: relative;
+	top: -625px;
+	left: 150px;
+	
+}
+
+.materiais {
+	position: relative;
+	top: -590px;
+	left: 150px;
+}
+
+.materiais1 {
+	position: relative;
+	top: -570px;
+	left: 150px;
+}
+
+.img1 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img2 {
+	position: relative;
+	top: -533px;
+	left: 950px;
+}
+
+.img3 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img4 {
+	position: relative;
+	top: -533px;
+	left: 950px;
