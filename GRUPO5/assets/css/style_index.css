@@ -1,0 +1,157 @@
+
+
+nav {
+	border-style: solid;
+	border-width: 1px;
+	height: 690px;
+	width: 150px;
+	padding: 20px;
+	margin: 10px;
+}
+
+.sidebar2 {
+	margin-top: : 10px;
+	margin-bottom: 10px;
+}
+
+.content {
+	position: relative;
+	top: -350px;
+	left: 150px;
+}
+
+.aluno {
+	position: relative;
+	top:-300px;
+	left: 150px;
+	display: inline;
+}
+
+.cont_aluno {
+	position: relative;
+	top:-280px;
+	left: 150px;
+	width: 1000px;
+	
+}
+
+.categorias {
+	position: relative;
+	top:-200px;
+	left: 150px;
+	display: inline;
+	width: 250px;
+
+}
+
+.ul {
+	width: 1020px;
+	display: inline;
+	position: relative;
+	left: 150px;
+	top: -300px;
+}
+
+
+.categorias2 {
+	display: inline-block;
+	width: 200px;
+	padding: 20px;
+}
+
+.legenda_foto {
+	position: relative;
+	top: -730px;
+	left: 600px;
+
+}
+
+.legenda_foto1 {
+	position: relative;
+	top: -680px;
+	left: 600px;
+}
+
+.legenda_foto2 {
+	position: relative;
+	top: -630px;
+	left: 600px;
+}
+
+.descricao {
+	position: relative;
+	top: -280px;
+	left: 150px;
+	width: 500px;
+
+}
+
+.equipe {
+	position: relative;
+	top: -325px;
+	left: 75px;
+	
+
+}
+
+.time {
+	position: relative;
+	top: -625px;
+	left: 150px;
+	
+}
+
+.materiais {
+	position: relative;
+	top: -590px;
+	left: 150px;
+}
+
+.materiais1 {
+	position: relative;
+	top: -570px;
+	left: 150px;
+}
+
+.img1 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img2 {
+	position: relative;
+	top: -533px;
+	left: 950px;
+}
+
+.img3 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img4 {
+	position: relative;
+	top: -533px;
+	left: 950px;
+
+}
+
+.img11 {
+	position: relative;
+	top: -650px;
+	left: 300px;
+}
+
+.img22 {
+	position: relative;
+	top: -600px;
+	left: 300px;
+}
+
+.img33 {
+	position: relative;
+	top: -550px;
+	left: 300px;
+}
