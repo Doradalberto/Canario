@@ -10,8 +10,8 @@ nav {
 }
 
 .sidebar2 {
-	margin-top: : 10px;
-	margin-bottom: 10px;
+    align-self:center;
+
 }
 
 .content {
@@ -66,92 +66,4 @@ nav {
 
 }
 
-.legenda_foto1 {
-	position: relative;
-	top: -680px;
-	left: 600px;
-}
 
-.legenda_foto2 {
-	position: relative;
-	top: -630px;
-	left: 600px;
-}
-
-.descricao {
-	position: relative;
-	top: -280px;
-	left: 150px;
-	width: 500px;
-
-}
-
-.equipe {
-	position: relative;
-	top: -325px;
-	left: 75px;
-	
-
-}
-
-.time {
-	position: relative;
-	top: -625px;
-	left: 150px;
-	
-}
-
-.materiais {
-	position: relative;
-	top: -590px;
-	left: 150px;
-}
-
-.materiais1 {
-	position: relative;
-	top: -570px;
-	left: 150px;
-}
-
-.img1 {
-	position: relative;
-	top: -430px;
-	left: 700px;
-}
-
-.img2 {
-	position: relative;
-	top: -533px;
-	left: 950px;
-}
-
-.img3 {
-	position: relative;
-	top: -430px;
-	left: 700px;
-}
-
-.img4 {
-	position: relative;
-	top: -533px;
-	left: 950px;
-
-}
-
-.img11 {
-	position: relative;
-	top: -650px;
-	left: 300px;
-}
-
-.img22 {
-	position: relative;
-	top: -600px;
-	left: 300px;
-}
-
-.img33 {
-	position: relative;
-	top: -550px;
-	left: 300px;
-}
