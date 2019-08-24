@@ -1,13 +1,86 @@
 nav {
 	border-style: solid;
-	border-width: 1px;
-	height: 690px;
-	width: 150px;
-	padding: 20px;
-	margin: 10px;
+	border-width: 0.1rem;
+	height: 40rem;
+	width: 10rem;
+	padding: 1rem;
+	margin: 1rem;
 }
 
 .sidebar2 {
-	margin-top: : 10px;
-	margin-bottom: 10px;
+	margin-top: : 1rem;
+	margin-bottom: 1rem;
+}
+
+.principal {
+	position: relative;
+	justify-content: flex;
+	
+}
+
+.desc {
+	position: relative;
+	top:-300px;
+	left: 150px;
+	display: inline;
+}
+
+.descricao {
+	position: relative;
+	top: -280px;
+	left: 150px;
+	width: 500px;
+
+}
+
+.equipe {
+	position: relative;
+	top: -325px;
+	left: 75px;
+	
+
+}
+
+.time {
+	position: relative;
+	top: -625px;
+	left: 150px;
+	
+}
+
+.materiais {
+	position: relative;
+	top: -590px;
+	left: 150px;
+}
+
+.materiais1 {
+	position: relative;
+	top: -570px;
+	left: 150px;
+}
+
+.img1 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img2 {
+	position: relative;
+	top: -533px;
+	left: 950px;
+}
+
+.img3 {
+	position: relative;
+	top: -430px;
+	left: 700px;
+}
+
+.img4 {
+	position: relative;
+	top: -533px;
+	left: 950px;
+
 }
