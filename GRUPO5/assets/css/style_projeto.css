@@ -1,86 +1,18 @@
-nav {
-	border-style: solid;
-	border-width: 0.1rem;
-	height: 40rem;
-	width: 10rem;
-	padding: 1rem;
-	margin: 1rem;
-}
-
-.sidebar2 {
-	margin-top: : 1rem;
+.item2 {
+	justify-content: flex-start;
 	margin-bottom: 1rem;
 }
 
-.principal {
-	position: relative;
-	justify-content: flex;
-	
+.item4 {
+	margin: 1rem;
 }
 
-.desc {
-	position: relative;
-	top:-300px;
-	left: 150px;
-	display: inline;
+.lista {
+	border-style: solid;
+	margin: 1rem;
 }
 
-.descricao {
-	position: relative;
-	top: -280px;
-	left: 150px;
-	width: 500px;
-
-}
-
-.equipe {
-	position: relative;
-	top: -325px;
-	left: 75px;
-	
-
-}
-
-.time {
-	position: relative;
-	top: -625px;
-	left: 150px;
-	
-}
-
-.materiais {
-	position: relative;
-	top: -590px;
-	left: 150px;
-}
-
-.materiais1 {
-	position: relative;
-	top: -570px;
-	left: 150px;
-}
-
-.img1 {
-	position: relative;
-	top: -430px;
-	left: 700px;
-}
-
-.img2 {
-	position: relative;
-	top: -533px;
-	left: 950px;
-}
-
-.img3 {
-	position: relative;
-	top: -430px;
-	left: 700px;
-}
-
-.img4 {
-	position: relative;
-	top: -533px;
-	left: 950px;
-
+.ul {
+	display: flex;
+	flex-wrap: wrap;
 }
