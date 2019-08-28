@@ -1,11 +1,13 @@
 .item2 {
-    justify-content: flex-start;
+  justify-content: flex-start;
+	margin-bottom: 1rem;
+	font-size: 24px;
 }
 
 .item3 {
 	display: inline-flex;
 	align-items: center;
-	/*font-size: 2rem;*/
+	margin-bottom: 1rem;
 }
 
 .item4 {
@@ -18,7 +20,3 @@
 	justify-content: center;
 	align-items: flex-end;
 }
-
-/*h1 {
-	font-size: 4rem;
-}*/
