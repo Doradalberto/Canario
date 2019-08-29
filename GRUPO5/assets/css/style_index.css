@@ -1,12 +1,17 @@
 .item2 {
   justify-content: flex-start;
-	margin-bottom: 1rem;
+  margin-bottom: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.2rem;
+  text-align: justify;
 }
 
 .item3 {
 	display: inline-flex;
 	align-items: center;
 	margin-bottom: 1rem;
+	font-family: 'EB Garamond', serif;
+	font-size: 2.5rem;
 }
 
 .item4 {
@@ -18,4 +23,8 @@
 	max-width: 100rem;
 	justify-content: center;
 	align-items: flex-end;
+}
+
+.aluno {
+	margin-left: 1rem;
 }
