@@ -1,32 +1,49 @@
 .item2 {
+  	display: flex;
   justify-content: flex-start;
   margin-bottom: 1rem;
   font-family: 'EB Garamond', serif;
   font-size: 1.2rem;
   text-align: justify;
   color: #025373;
+	  border-style: solid;
+	  border-width: 0.2rem;
+	  border-color: red;
 }
 
 .item3 {
-	display: inline-flex;
-	align-items: center;
-	margin-bottom: 1rem;
-	font-family: 'EB Garamond', serif;
-	font-size: 2.5rem;
-}
-
-.item4 {
-	margin: 1rem;
-}
-
-.ul {
-	display: flex;
-	max-width: 100rem;
-	justify-content: center;
-	align-items: flex-end;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 2.5rem;
+	  border-style: solid;
+	  border-width: 0.2rem;
+	  border-color: green;
 }
 
 .aluno {
-	margin-left: 1rem;
-	color: #025373;
+  margin-left: 1rem;
+  color: #025373;
+	  border-style: solid;
+	  border-width: 0.2rem;
 }
+
+.ul {
+  display: flex;
+  max-width: 100rem;
+  justify-content: center;
+  align-items: flex-end;
+	  border-style: solid;
+	  border-width: 0.2rem;
+	  border-color: yellow;
+}
+
+.item4 {
+  margin: 1rem;
+	  border-style: solid;
+	  border-width: 0.2rem;
+}
+
+
+
