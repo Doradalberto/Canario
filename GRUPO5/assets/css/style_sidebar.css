@@ -3,6 +3,12 @@
   display:flex;
 }
 
+@media (max-width: 360px){
+  .container1 {
+    display: none !important;
+  }
+}
+
 .container1 {
 	display: inline-flex;
 	flex-direction: column;
