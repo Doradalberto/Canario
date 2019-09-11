@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let params = coDesExtract()
   let value = params['key']
 
-  let db = coDesConnect('https://codesigndeaplicativos.firebaseio.com/')
+  let db = coDesConnect('https://console.firebase.google.com/project/canario-957b5/database/canario-957b5/data')
 
   db.download('/', function(data) {
 
