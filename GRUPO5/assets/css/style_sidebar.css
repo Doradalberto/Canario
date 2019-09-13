@@ -11,6 +11,8 @@
 	height: 40rem;
 	width: 10rem;
 	background-color: #8BBBD9;
+  height: 40rem;
+  width: 10rem;
 }
 
 .container2 {
@@ -87,8 +89,35 @@
   display: none;
 }
 
+
+
 @media (max-width: 360px){
   .container4 {
     justify-content: center;
-}
+  }
+  .container1 {
+    position: absolute;
+    top: 0;
+    left: -200px;
+    height: 105vh;
+    width: 150px;
+    display: block;
+    transition: all 0.5s;
+  }
+  .botao {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    background: url(assets\img\3_tracos.png)
+    background-size: cover;
+    cursor: pointer;
+  }
+  .botao:hover + .container1{
+    left: 0;
+    transition: all 0.5s;
+  }
+  .container1:hover {
+    left: 0;
+    transition: all 0.5s;
+  }
 }

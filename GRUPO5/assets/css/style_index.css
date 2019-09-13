@@ -42,10 +42,11 @@
   height: 100px;
 }
 
+.titulo_ button {
+  /*align-content: center;*/
+}
+
 @media (max-width: 360px){
-  .container1 {
-    display: none !important;
-  }
   .title {
     display: inline-flex;
 

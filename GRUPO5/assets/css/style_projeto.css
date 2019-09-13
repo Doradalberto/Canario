@@ -41,9 +41,6 @@
 	.body {
 	    flex-wrap: wrap !important;
 	}
-	.container1 {
-   		display: none !important;
- 	}
  	.ul {
  		display: flex;
  		justify-content: center;
