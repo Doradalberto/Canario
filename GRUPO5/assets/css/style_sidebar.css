@@ -44,6 +44,9 @@
   width: 30rem;
   align-items: center;
   margin-top: 1rem;
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
 }
 
 .item1 {
@@ -62,6 +65,11 @@
   color: #F0F7FA;
 }
 
+.item1 a:hover {
+  color: #025373;
+  transition: all 0.2s;
+}
+
 .titulo {
   display: flex;
   justify-content: flex-start;
@@ -71,4 +79,16 @@
   color: #025373;
 }
 
+.titulo_ {
+  display: inline-flex;
+}
 
+.titulo_ img {
+  display: none;
+}
+
+@media (max-width: 360px){
+  .container4 {
+    justify-content: center;
+}
+}
