@@ -2,6 +2,9 @@
 	margin-bottom: 1rem;
 	font-family: 'EB Garamond', serif;
 	font-size: 1.5rem;
+	border-style: solid;
+	border-width: 1rem;
+	border-color: blue;
 }
 
 .item3 a {
@@ -12,16 +15,13 @@
 
 .item3 img {
   margin-right: 1rem;
-  height:200px; 
-  width:100px;
 }
 
 .ul {
-
+  border-style: solid;
+  border-width: 1rem;
+  border-color: orange;
 }
 
 @media (max-width: 360px){
-  .container1 {
-    
-  }
 }

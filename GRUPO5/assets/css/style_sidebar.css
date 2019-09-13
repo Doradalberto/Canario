@@ -24,6 +24,9 @@
   padding-left: 2rem;
   padding-right: 2rem;
   margin-top: 1rem;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 1rem;
 }
 
 .container3 {
@@ -37,6 +40,9 @@
   width: 800px;
   border-style: solid;
   margin-top: 1rem;
+    border-style: solid;
+    border-color: green;
+    border-width: 1rem;
 }
 
 .container4 {
