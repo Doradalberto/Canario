@@ -89,16 +89,6 @@
   color: #025373;
 }
 
-.titulo_ {
-  display: inline-flex;
-}
-
-.titulo_ img {
-  display: none;
-}
-
-
-
 @media (max-width: 360px){
   .container4 {
     justify-content: center;
