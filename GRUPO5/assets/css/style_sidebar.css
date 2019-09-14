@@ -13,7 +13,7 @@
 	background-color: #8BBBD9;
       border-width: 1rem;
       border-style: solid;
-      border-color: green;
+      border-color:;
 }
 
 .container2 {
@@ -88,6 +88,16 @@
   font-size: 3rem;
   color: #025373;
 }
+
+.titulo_ {
+  display: inline-flex;
+}
+
+.titulo_ img {
+  display: none;
+}
+
+
 
 @media (max-width: 360px){
   .container4 {
