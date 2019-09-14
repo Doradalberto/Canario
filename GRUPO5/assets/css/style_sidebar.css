@@ -11,9 +11,6 @@
 	height: 40rem;
 	width: 10rem;
 	background-color: #8BBBD9;
-      border-width: 1rem;
-      border-style: solid;
-      border-color:;
 }
 
 .container2 {
@@ -25,9 +22,6 @@
   padding-left: 2rem;
   padding-right: 2rem;
   margin-top: 1rem;  
-      border-width: 1rem;
-      border-style: solid;
-      border-color: pink;
 }
 
 .container3 {
@@ -61,18 +55,14 @@
   font-family: 'EB Garamond', serif;
   font-size: 1.5rem;
   text-align: center;
-      border-width: 1rem;
-      border-style: solid;
-      border-color: purple;
 }
 
 .botao {
   display: none;
 }
+
 .item1 a {
   color: #F0F7FA;
-  border-width: 1rem;
-  border-style: solid;
 }
 
 .item1 a:hover {
@@ -89,15 +79,6 @@
   color: #025373;
 }
 
-.titulo_ {
-  display: inline-flex;
-}
-
-.titulo_ img {
-  display: none;
-}
-
-
 
 @media (max-width: 360px){
   .container4 {
@@ -106,13 +87,14 @@
   .container1 {
     position: absolute;
     top: 0;
-    left: -200px;
+    left: -15rem;
     height: 105vh;
-    width: 115px;
+    width: 10rem;
     display: block;
     transition: all 0.5s;
   }
   .botao {
+    display: flex;
     width: 30px;
     height: 30px;
     background-color: #fff;

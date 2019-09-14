@@ -1,1 +1,0 @@
-https://console.firebase.google.com/project/canario-957b5/database/canario-957b5/data

@@ -1,6 +1,5 @@
 .item2 {
 	justify-content: flex-start;
-	margin-bottom: 1rem;
 	font-family: 'EB Garamond', serif;
 	font-size: 2.5rem;
 	text-align: justify;
@@ -9,13 +8,14 @@
 
 .item3 {
 	justify-content: flex-start;
-	margin-bottom: 1rem;
 	font-family: 'EB Garamond', serif;
 	font-size: 1.2rem;
 	text-align: justify;
 	color: #025373;
-	margin-left: 1rem;
+	margin-top:1rem; 
+	margin-left:1rem;
 	margin-right: 1rem;
+	margin-bottom: 2rem;
 }
 
 .item4 {
@@ -29,6 +29,8 @@
 	font-family: 'EB Garamond', serif;
 	font-size: 1.2rem;
 	color: #025373;
+	margin-bottom: 2rem;
+
 }
 
 .ul {

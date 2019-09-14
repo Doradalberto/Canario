@@ -42,27 +42,6 @@
   height: 100px;
 }
 
-
-
-
-.botao {
-  border-width: 0.2rem;
-  border-style: solid;
-  border-color: orange;
-}
-.titulo_ {
-  border-width: 1rem;
-  border-style: solid;
-  border-color: red;
-}
-
-
-
-
-.titulo_ button {
-  /*align-content: center;*/
-}
-
 @media (max-width: 360px){
   .title {
     display: inline-flex;

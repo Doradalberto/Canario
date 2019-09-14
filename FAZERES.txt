@@ -1,0 +1,18 @@
+linkar Firebase (pastas de todas as categorias)
+
+Colocar botão sidebar local correto
+Arrumar imagem botao sidebar
+Justify-content: space-evenly do sidebar mobile
+Bug link imagem categoria mobile
+criar categoria
+projeto desktop - 4 imagens dar uma subida
+projeto mobile - imagens com uma borda esquerda estranha - desalinhadas com o centro
+
+? categoria-mobile nomes e imagens centralizados (será?)
+--ou todos centralizados ou todos do lado
+
+imagens:
+arranjar um logo
+categoria - 1x imagem por categoria (dados, estmet, jogo) 
+-- depois que fazer todas as páginas, todas deverão ter uma imagem
+dentro de cada categoria, 3 ou 4 fotos do projeto

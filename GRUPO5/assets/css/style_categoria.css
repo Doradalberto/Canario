@@ -2,9 +2,6 @@
 	margin-bottom: 1rem;
 	font-family: 'EB Garamond', serif;
 	font-size: 1.5rem;
-	  border-style: solid;
-      border-width: 1rem;
-      border-color: blue;
 }
 
 .item3 a {
@@ -14,10 +11,7 @@
 }
 
 .item3 img {
-  /*margin-right: 1rem;*/
-    border-style: solid;
-	  border-width: 1rem;
-	  border-color: orange;
+  margin-right: 1rem;
 }
 
 .item3_2 {	
@@ -25,9 +19,6 @@
 	margin-bottom: 1rem;
 	font-family: 'EB Garamond', serif;
 	font-size: 1.5rem;
-	  border-style: solid;
-      border-width: 1rem;
-      border-color: blue;
 }
 
 .item3_2 a {
@@ -36,20 +27,16 @@
 	display: inline-flex;
 }
 
-.item3_2 img {
-  /*margin-right: 1rem;*/
-    border-style: solid;
-	  border-width: 1rem;
-	  border-color: orange;
-}
-
 @media (max-width: 360px){
 	.item3 {
 		display: none;
 	}
 	.item3_2 {
-		display: flex;
-		max-width: 270px;
+		display: block;
+		max-width: 299.96px;
 		flex-wrap: wrap;
+	}
+	.item3_2 img{
+		display: block;
 	}
   }
