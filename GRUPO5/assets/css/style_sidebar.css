@@ -11,8 +11,9 @@
 	height: 40rem;
 	width: 10rem;
 	background-color: #8BBBD9;
-  height: 40rem;
-  width: 10rem;
+      border-width: 1rem;
+      border-style: solid;
+      border-color: green;
 }
 
 .container2 {
@@ -23,10 +24,10 @@
   border-style: solid;
   padding-left: 2rem;
   padding-right: 2rem;
-  margin-top: 1rem;
-    border-style: solid;
-    border-color: yellow;
-    border-width: 1rem;
+  margin-top: 1rem;  
+      border-width: 1rem;
+      border-style: solid;
+      border-color: pink;
 }
 
 .container3 {
@@ -40,9 +41,6 @@
   width: 800px;
   border-style: solid;
   margin-top: 1rem;
-    border-style: solid;
-    border-color: green;
-    border-width: 1rem;
 }
 
 .container4 {
@@ -52,9 +50,6 @@
   width: 30rem;
   align-items: center;
   margin-top: 1rem;
-  border-style: solid;
-  border-width: 1px;
-  border-color: red;
 }
 
 .item1 {
@@ -62,15 +57,22 @@
   align-items: center;
   justify-content: space-evenly;
   height: 100%;
-  width: 100%;
   flex-direction: column;
   font-family: 'EB Garamond', serif;
   font-size: 1.5rem;
   text-align: center;
+      border-width: 1rem;
+      border-style: solid;
+      border-color: purple;
 }
 
+.botao {
+  display: none;
+}
 .item1 a {
   color: #F0F7FA;
+  border-width: 1rem;
+  border-style: solid;
 }
 
 .item1 a:hover {
@@ -106,7 +108,7 @@
     top: 0;
     left: -200px;
     height: 105vh;
-    width: 150px;
+    width: 115px;
     display: block;
     transition: all 0.5s;
   }
