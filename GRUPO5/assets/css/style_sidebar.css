@@ -88,7 +88,7 @@
     position: absolute;
     top: 0;
     left: -15rem;
-    height: 105vh;
+    height: 45rem;
     width: 10rem;
     display: block;
     transition: all 0.5s;
@@ -109,5 +109,8 @@
   .container1:hover {
     left: 0;
     transition: all 0.5s;
+  }
+  .item1 {
+      height: 40rem;
   }
 }
