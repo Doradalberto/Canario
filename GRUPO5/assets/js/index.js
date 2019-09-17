@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   db.download('/', function(data) {
     context = data
+    coDesReplace('.ul', context)
     coDesReplace('.item1', context)
-    coDesReplace('.item4', context)
+
   })
 })

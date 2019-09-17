@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   let db = coDesConnect('https://canario-957b5.firebaseio.com/')
 
-  db.download('/', function(data) {
+  db.download('/portfolio', function(data) {
 
     /*
       NUNCA, JAMAIS, EM HIPÓTESE ALGUMA faça
@@ -16,12 +16,23 @@ document.addEventListener('DOMContentLoaded', function() {
       vai se arrepender. Você foi avisado.
     */
 
-    let dora = data['portfolio'][value]
-    dora['ab']= value
-    coDesReplace('.ul', dora)
+    context = data[value]
+    coDesReplace('titulo', context)
 
-    let cat= data['portfolio'][value]
-    coDesReplace('.titulo', cat)
+    context = data['projetos'][value]
+    coDesReplace('.item3', context)
 
+    console.log(data)
+
+    context = data
+    coDesReplace('.ul', context)
+    coDesReplace('.item1', context)
+
+
+    /*context = data
+    coDesReplace('.item1', context)
+
+    context = data['portfolio'][value]
+    coDesReplace('.item4', context)*/
   })
 })
