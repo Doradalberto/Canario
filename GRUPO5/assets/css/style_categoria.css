@@ -39,4 +39,7 @@
 	.item3_2 img{
 		display: block;
 	}
+	.titulo {
+    	font-size: 2.3rem !important;
   }
+ }
