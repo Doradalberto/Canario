@@ -23,6 +23,11 @@
 	align-items: flex-end;
 }
 
+.item4 img{
+  width: 200px;
+  height: 100px;
+}
+
 .lista {
 	border-style: solid;
 	margin: 1rem;
@@ -30,6 +35,16 @@
 	font-size: 1.2rem;
 	color: #025373;
 	margin-bottom: 2rem;
+
+}
+
+.lista_ {
+  border-style: solid;
+  margin: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.2rem;
+  color: #025373;
+  margin-bottom: 2rem;
 
 }
 
@@ -58,8 +73,6 @@
 }
 
 
-
-////////////////
 #myImg {
   cursor: pointer;
   transition: 0.3s;
@@ -144,7 +157,6 @@
     width: 100%;
   }
 }
-///////////////////
 
 
 

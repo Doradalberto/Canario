@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       vai se arrepender. Você foi avisado.
     */
 
-    context = data[value]
+    context = data['portfolio'][value]
     coDesReplace('titulo', context)
 
     context = data['projetos'][value]
