@@ -37,6 +37,13 @@
   margin-top: 1rem;
 }
 
+.container1 img{
+  width: 150px;
+  height: 150px;
+  align-items: center;
+  margin-left: 0.3rem;
+}
+
 .container4 {
   display: inline-flex;
   flex-direction: row;
@@ -93,6 +100,12 @@
     display: block;
     transition: all 0.5s;
   }
+  .container1 img{
+    align-items: center;
+  }
+
+
+
   .botao {
     display: flex;
     width: 40px;
@@ -115,7 +128,7 @@
     transition: all 0.5s;
   }
   .item1 {
-      height: 30rem; 
+      height: 25rem; 
   }
   .container2 {
     max-width: 360px;
