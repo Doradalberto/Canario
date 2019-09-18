@@ -117,6 +117,9 @@
   .item1 {
       height: 30rem; 
   }
+  .container2 {
+    max-width: 360px;
+  }
   .container2 h1{
     margin-left: 3rem;
   }

@@ -31,7 +31,11 @@
 
 @media (max-width: 360px){
 	.item3 {
-		display: none;
+		display: flex;
+	}
+	.item3 a{
+		display: flex;
+		flex-wrap: wrap;
 	}
 	.item3_2 {
 		display: block;

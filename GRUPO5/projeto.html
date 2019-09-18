@@ -18,7 +18,7 @@
 
   <button class="botao"></button>
 	<div class="container1">
-		<img src= "http://picsum.photos/150/100/?random" alt="Portfólio">
+		<img src= "assets/img/logo2.png" alt="Portfólio">
 		<ul class="item1">
       <li><a style="text-decoration:none" href="index.html">Home</a></li>
       <li><a style="text-decoration:none" href="categoria.html">Auxílio</a></li>
@@ -50,8 +50,8 @@
 
   <div class="container4">
     <ul class="ul">
-      {{#each imagem}}
-      <li class="item4"><img id="myImg" src= "assets/img/{{this.imagem2}}.png" alt="{{@key}}"></li>
+      {{#each fotos}}
+      <li class="item4"><img id="myImg" src= "assets/img/{{@variavel}}" alt="{{@key}}"></li>
       {{/each}}
     </ul>
   </div>  
