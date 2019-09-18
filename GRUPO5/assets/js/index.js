@@ -13,11 +13,11 @@ document.addEventListener('DOMContentLoaded', function() {
     
 
 
-    let gabi = data['portfolio']
-    coDesReplace('container3', gabi)
+    // let gabi = data['portfolio']
+    // coDesReplace('container3', gabi)
 
-    coDesReplace('.item3', gabi)
-    coDesReplace('.item2', gabi)
+    // coDesReplace('.item3', gabi)
+    // coDesReplace('.item2', gabi)
 
   })
 })
