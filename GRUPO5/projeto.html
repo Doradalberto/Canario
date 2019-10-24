@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-	<title>Estação Meteorológica</title>
+	<title>Projeto</title>
 	<link href="assets/css/reset.css" rel="stylesheet">
 	<link href="assets/css/style_projeto.css" rel="stylesheet">
 	<link href="assets/css/style_sidebar.css" rel="stylesheet">
@@ -50,22 +50,11 @@
 
   <div class="container4">
     <ul class="ul">
-      {{#each fotos}}
-      <li class="item4"><img id="myImg" src= "assets/img/{{this}}" alt="{{this}}"></li>
+      {{#each fotos}} 
+      <li class="item4"><img id="myImg" src= "assets/img/{{this}}" alt="{{@key}}"></li>
       {{/each}}
     </ul>
   </div>  
 
-<!-- codigo do efeito da imagem que abre -- se quiser tirar tem que tirar o id="myImg" das imagens do item4!!!! 
-<-- The Modal -->
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-
-<script>
-
-</script>
 </body>
 </html>
